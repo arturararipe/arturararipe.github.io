@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "eFotball Review"
-date:   2021-10-15 16:23:15 -0300
+date:   2021-09-30 05:59:15 -0300
 categories: reviews
 ---
 I'm not one to write negative reviews, generally. I usually try to focus on the positive aspects of every game, which might be many, or not really, although, rule of thumb, every game does at least one thing right. eFootball 2022 is, by all means, a step backwards. I do understand that an engine switch is usually a big challenge and more often than not the first iteration is a disaster. Pro Evolution Soccer 2014 was an example of that: awful, impossible to enjoy, but it matured greatly over time and became my football franchise of choice. Is history repeating itself?
