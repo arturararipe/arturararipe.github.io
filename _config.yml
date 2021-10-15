@@ -1,6 +1,6 @@
 # Site
 name: 'Artur Araripe's Blog'
-description: 'Boring content creator from Brazil that loves emulators, airplanes and virtual machines.'
+description: 'Boring content creator from Brazil that loves emulators, airplanes and virtual machines'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mundana-theme-jekyll'
