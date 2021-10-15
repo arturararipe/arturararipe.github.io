@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Red Dead Redemption 2 Review
+title: "Red Dead Redemption 2 Review"
 date:  2020-11-28 07:18:28 -0300
 categories: reviews
 ---
