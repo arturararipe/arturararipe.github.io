@@ -28,7 +28,7 @@ twitter_username: ArturAraripe
 github_username:  arturararipe
 
 # Build settings
-theme: minima
+remote_theme: wowthemesnet / mediumish-theme-jekyll
 plugins:
   - jekyll-feed
 
