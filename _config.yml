@@ -28,7 +28,7 @@ twitter_username: ArturAraripe
 github_username:  arturararipe
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes / minimal-mistakes
 plugins:
   - jekyll-feed
 
